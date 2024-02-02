@@ -20,14 +20,15 @@ body {
     color: #fff;
 }
 
-/* need checked */
-/* #header {
-    width: 50%;
-    height: 50%;
-    background-image: url(Image/Rase_IMG20230403082923-removebg-preview\ \(1\).png);
+
+
+#header {
+    width: 100%;
+    height: 120VH;
+    background-image: url(Image/BGNewDSC00560.png);
     background-size: cover;
     background-position: center;
-} */
+}
 
 .container {
     padding: 5px 5%;
